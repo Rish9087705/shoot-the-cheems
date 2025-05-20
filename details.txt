@@ -1,0 +1,50 @@
+▶️ Run the Game
+
+bash
+
+python shoot_the_cheems.py
+
+
+Then:
+
+    Allow your webcam access
+
+    Use your index finger to move the crosshair
+
+    Touch Cheems to shoot!
+
+    Press Q to quit the game
+
+
+Features
+
+    @ Real-time hand tracking using MediaPipe
+
+    @ Crosshair control via index finger
+
+    @ Cheems Dog target with random positions
+
+    @ Sound effects on successful hit
+
+    @ Runs in fullscreen mode for immersive gameplay
+
+
+File Structure
+
+Your_Folder_Name
+├── shoot_the_cheems.py
+├── cheems.png
+├── background.jpg
+├── shot.wav
+└── README.md
+
+
+Acknowledgements
+Made with ❤️ using:
+
+OpenCV
+
+MediaPipe by Google
+
+Pygame
+
