@@ -1,4 +1,4 @@
-# 🦆 Shoot the cheems — Hand Tracking Game with Python
+# 🐶 Shoot the cheems — Hand Tracking Game with Python
 
 
 A fun computer vision-based shooting game where you aim and shoot ducks using just your **index finger** detected via webcam! Built with Python, OpenCV, MediaPipe, and Pygame.
